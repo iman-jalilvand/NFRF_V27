@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 3417932ca5d49dd4db59593417089a79
+  - enabled: 1
+    path: Assets/Scenes/Tutorial_UI_Button.unity
+    guid: 8a18c063a94875242b10225e468e5a57
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: 4905d837e475b2c419c8cde6b28b6151
+  - enabled: 1
+    path: Assets/Scenes/Practice Mode.unity
+    guid: d011897770b08824191fb9ef6478c96d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2baf69c081f734e4f9a7c7315976d951, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e99ea5a855083e94eba8f96d09ccc7ff, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f2cf2587d28c7964d80ff820ccaa6c22, type: 2}
